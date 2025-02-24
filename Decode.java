@@ -1,4 +1,4 @@
-// Time Complexity : O(m*n) O(maxK⋅n), where maxK is the maximum value of k and n is the length of a given string s
+// Time Complexity : O(maxK⋅n), where maxK is the maximum value of k and n is the length of a given string s
 // Space Complexity : O(m+n) where m is the number of letters(a-z) and n is the number of digits(0-9) in strings
 // Did this code successfully run on Leetcode : Yes
 // Any problem you faced while coding this : No
